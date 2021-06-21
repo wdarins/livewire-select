@@ -1,3 +1,3 @@
 <p class="{{ $styles['searchNoResults'] }}">
-    {{ $noResultsMessage }}
+    {!! $noResultsMessage !!}
 </p>
