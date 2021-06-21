@@ -2,16 +2,21 @@
     "name": "wdarins/livewire-select",
     "description": "Livewire dropdown select component",
     "keywords": [
-        "asantibanez",
+        "wdarins",
         "livewire-select"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-select",
+    "homepage": "https://github.com/wdarins/livewire-select",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Zara Gheorghe",
+            "email": "zara.giku@gmail.com",
             "role": "Developer"
         }
     ],
